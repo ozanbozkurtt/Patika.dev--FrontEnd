@@ -1,0 +1,16 @@
+.navbar{
+    list-style-type: none;
+}
+h2{
+    font-size: 20px;
+}
+.text{
+    margin-left: 25px;
+}
+body{
+    background-color: #E9ECEF;
+}
+img{
+    max-width: 208px;
+    max-height: 142px;
+}
